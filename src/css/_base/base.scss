@@ -1,0 +1,36 @@
+@import '../_pub/sass_pub';
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+html{
+  font-size:100px;
+}
+body{
+  font-size:.14rem;
+  background:#ebebeb;
+}
+@font-face {
+  font-family: 'cocofont';  /* project id 323544 */
+  src: url('//at.alicdn.com/t/font_ywz22n7qh7uy2e29.eot');
+  src: url('//at.alicdn.com/t/font_ywz22n7qh7uy2e29.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_ywz22n7qh7uy2e29.woff') format('woff'),
+  url('//at.alicdn.com/t/font_ywz22n7qh7uy2e29.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_ywz22n7qh7uy2e29.svg#cocofont') format('svg');
+}
+i{
+  font-family: 'cocofont'!important;
+  font-size:px2rem( 20px );;
+  font-style:normal;
+  color:#999;
+}
+li{
+  list-style:none;
+}
+a{
+  text-decoration:none;
+}
+img{
+  vertical-align:middle;
+}
