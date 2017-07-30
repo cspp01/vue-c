@@ -8,7 +8,7 @@
 
 ## 项目演示
 
-![](mzw.gif)
+![](http://otnhjxlus.bkt.clouddn.com/mzw.gif)
 
 ## 项目地址
 
