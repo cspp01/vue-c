@@ -2,15 +2,16 @@
     <aside id="sidebar" :class="{ sidShow : ifSid }">
         <nav>
             <ul>
-                <li><router-link @click.native="uppIfSid" to="#">首页<i class="coco-yuan-ri"></i></router-link></li>
-                <li><router-link @click.native="uppIfSid" to="/collection">影片<i class="coco-yuan-ri"></i></router-link></li>
-                <li><router-link @click.native="uppIfSid" to="/">影院<i class="coco-yuan-ri"></i></router-link></li>
+                <li><router-link @click.native="uppIfSid" to="/">首页<i class="coco-yuan-ri"></i></router-link></li>
+                <li><router-link @click.native="uppIfSid" to="/more">影片<i class="coco-yuan-ri"></i></router-link></li>
+                <li><router-link @click.native="uppIfSid" to="/cinema">影院<i class="coco-yuan-ri"></i></router-link></li>
                 <li><router-link @click.native="uppIfSid" to="/">商城<i class="coco-yuan-ri"></i></router-link></li>
                 <li><router-link @click.native="uppIfSid" to="/">演出<i class="coco-yuan-ri"></i></router-link></li>
-                <li><router-link @click.native="uppIfSid" to="/">我的<i class="coco-yuan-ri"></i></router-link></li>
+                <li><router-link @click.native="uppIfSid" to="/user">我的<i class="coco-yuan-ri"></i></router-link></li>
                 <li><router-link @click.native="uppIfSid" to="/">卖座卡<i class="coco-yuan-ri"></i></router-link></li>
             </ul>
         </nav>
+        <div :class="{ ifzz : ifSid }" @click="uppIfSid"></div>
     </aside>
 </template>
 <script>
@@ -70,6 +71,24 @@
         &.sidShow{
             left:0;
             opacity:1;
+        }
+        >nav{
+            z-index:1001;
+            position:relative;
+            height:100%;
+        }
+        >div{
+            position:fixed;
+            top:0;
+            left:0;
+            display:none;
+            &.ifzz{
+                display:block;
+                width:100%;
+                height:100%;
+                z-index:1000;
+                background: rgba( 0, 0, 0, .3 );
+            }
         }
     }
 </style>

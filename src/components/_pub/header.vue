@@ -1,22 +1,34 @@
 <template>
     <header id="header" class="clearfix">
-        <section class="btn" @click="sidShow"><i class="coco-iconlist"></i></section>
+        <section class="btn" v-if="headerLeftIcon == 0" @click="sidShow"><i class="coco-iconlist"></i></section>
+        <section v-else class="btn" @click="back"><i class="coco-user-line"></i></section>
         <section class="title">
-            <header>卖座电影</header>
+            <header>{{title}}</header>
         </section>
-        <section class="user"><i class="coco-user-line"></i></section>
+        <router-link to="/user"><section class="user"><i class="coco-user-line"></i></section></router-link>
     </header>
 </template>
 <script>
     export default{
-        data : () => {
+        data : function() {
             return {
-
             }
         },
         methods : {
             sidShow : function() {
                 this.$store.commit( 'uppdateIfSid' );
+            },
+            back : function() {
+                this.$router.go( -1 );
+                this.$store.commit( 'uppdateHeaderLeftIcon', 'jj' )
+            }
+        },
+        computed : {
+            title : function() {
+                return this.$store.getters.getTitle;
+            },
+            headerLeftIcon : function() {
+                return this.$store.getters.getHeaderLeftIcon;
             }
         }
     }

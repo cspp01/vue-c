@@ -1,0 +1,218 @@
+{
+  "rys" :[
+      {
+        "id" : 1,
+        "name" : "战狼2",
+        "img" : "https://pic.maizuo.com/usr/movie/416915e0ee44bc7d29d365fb54d28ec4.gif?x-oss-process=image/resize,m_fixed,h_0,w_300",
+        "dc" : "只身冲险地 帅过宋仲基",
+        "pf" : "8.4",
+        "yynum" : 166,
+        "gpnum" : 413649
+      },
+      {
+        "id" : 2,
+        "name" : "建军大业",
+        "img" : "https://pic.maizuo.com/usr/movie/668e246159556de0fee7f2935b4e3221.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300",
+        "dc" : "星星之火 可以燎原",
+        "pf" : "8.4",
+        "yynum" : 166,
+        "gpnum" : 413649
+      },
+      {
+        "id" : 3,
+        "name" : "神偷奶爸3",
+        "img" : "https://pic.maizuo.com/usr/movie/e01853de19221f6b4752fcf3251a5cf0.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300",
+        "dc" : "既生格鲁 何生德鲁",
+        "pf" : "8.4",
+        "yynum" : 166,
+        "gpnum" : 413649
+      },
+      {
+        "id" : 4,
+        "name" : "绣春刀II：修罗战场",
+        "img" : "https://pic.maizuo.com/usr/movie/647badfd281a945637e8d669f1c2b138.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300",
+        "dc" : "追查陷阴谋 现任遭了秧",
+        "pf" : "8.4",
+        "yynum" : 166,
+        "gpnum" : 413649
+      },
+      {
+        "id" : 5,
+        "name" : "三生三世十里桃花",
+        "img" : "https://pic.maizuo.com/usr/movie/c6c14cefd22495d858d01869b53e3af7.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300",
+        "dc" : "虐心姐弟恋 颜值要逆天",
+        "pf" : "8.4",
+        "yynum" : 166,
+        "gpnum" : 413649
+      },
+      {
+        "id" : 6,
+        "name" : "悟空传",
+        "img" : "https://pic.maizuo.com/usr/movie/755927710de6b174d1175d018b0b86d6.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300",
+        "dc" : "悟空二郎神 兄弟俩情深",
+        "pf" : "8.4",
+        "yynum" : 166,
+        "gpnum" : 413649
+      },
+  {
+    "id" : 1,
+    "name" : "大耳朵图图之美食狂想曲",
+    "img" : "https://pic.maizuo.com/usr/movie/de0a89f2a2dae4544918e7eccce8ed03.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300",
+    "dc" : "图图变厨神 萌娃变勤奋",
+    "pf" : "8.4",
+    "yynum" : 166,
+    "gpnum" : 413649
+  },
+  {
+    "id" : 2,
+    "name" : "豆福传",
+    "img" : "https://pic.maizuo.com/usr/movie/210bca5a856c8741623f6ae2adc7e2ee.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300",
+    "dc" : "只要功夫深 豆子变上神",
+    "pf" : "8.4",
+    "yynum" : 166,
+    "gpnum" : 413649
+  },
+  {
+    "id" : 3,
+    "name" : "大护法",
+    "img" : "https://pic.maizuo.com/usr/movie/649eaa3fb89773ab60f7b63e828ee1e7.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300",
+    "dc" : "小学生及学龄前儿童需在家长陪同下观看",
+    "pf" : "8.4",
+    "yynum" : 166,
+    "gpnum" : 413649
+  },
+  {
+    "id" : 4,
+    "name" : "父子雄兵",
+    "img" : "https://pic.maizuo.com/usr/movie/a53831a51bd1bc4892842796d21c4a83.gif?x-oss-process=image/resize,m_fixed,h_0,w_300",
+    "dc" : "大鹏要搞事 老爸来收拾",
+    "pf" : "8.4",
+    "yynum" : 166,
+    "gpnum" : 413649
+  },
+  {
+    "id" : 5,
+    "name" : "绿野仙踪之奥兹国奇幻之旅",
+    "img" : "https://pic.maizuo.com/usr/movie/0f5e3acd176c3fd28b2a32d8bac433b6.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300",
+    "dc" : "智慧胜邪恶 拯救奥兹国",
+    "pf" : "8.4",
+    "yynum" : 166,
+    "gpnum" : 413649
+  },
+  {
+    "id" : 6,
+    "name" : "绝世高手",
+    "img" : "https://pic.maizuo.com/usr/movie/99f91a480e49209cd9820b782010bc92.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300",
+    "dc" : "低调不露脸 身后皆悬念",
+    "pf" : "8.4",
+    "yynum" : 166,
+    "gpnum" : 413649
+  }
+  ],
+  "jjs" :[
+    {
+      "id" : 5,
+      "name" : "三生三世十里桃花",
+      "img" : "https://pic.maizuo.com/usr/movie/c6c14cefd22495d858d01869b53e3af7.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300",
+      "dc" : "虐心姐弟恋 颜值要逆天",
+      "date" : "8月7日",
+      "week" : "星期四"
+    },
+    {
+      "id" : 2,
+      "name" : "神灵寨",
+      "img" : "https://pic.maizuo.com/usr/movie/fa6b1fd784e5ef4a662b4fdab7484e7a.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300",
+      "dc" : "父亲忽病危 新娘真够黑",
+      "date" : "7月31日",
+      "week" : "星期一"
+    },
+    {
+      "id" : 3,
+      "name" : "谁是球王",
+      "img" : "https://pic.maizuo.com/usr/movie/c3da954a4985e26872191abaec1adee7.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300",
+      "dc" : "足球变人生 再战可辉煌",
+      "date" : "8月7日",
+      "week" : "星期四"
+    },
+    {
+      "id" : 4,
+      "name" : "大象林旺之一夜成名",
+      "img" : "https://pic.maizuo.com/usr/movie/d9c362ea7a9f2fff56cdd6db3d975051.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300",
+      "dc" : "大象参二战 一生好伙伴",
+      "date" : "8月7日",
+      "week" : "星期四"
+    },
+    {
+      "id" : 1,
+      "name" : "荒野加油站",
+      "img" : "https://pic.maizuo.com/usr/movie/a22951947c3b0d5095fe02c0980920ab.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300",
+      "dc" : "夜半拉乘客 结果遇不测",
+      "date" : "8月7日",
+      "week" : "星期四"
+    },
+    {
+      "id" : 6,
+      "name" : "闺蜜2：无二不作",
+      "img" : "https://pic.maizuo.com/usr/movie/a474b505ecf46d759bd74e024bd6793c.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300",
+      "dc" : "闺蜜团出战 会一会新娘",
+      "date" : "8月7日",
+      "week" : "星期四"
+    },
+    {
+      "id" : 1,
+      "name" : "鲛珠传",
+      "img" : "https://pic.maizuo.com/usr/movie/51b3c8a2f91524986f67e7f4b7b4d9a1.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300",
+      "dc" : "改编热IP 杠杠号召力",
+      "date" : "8月7日",
+      "week" : "星期四"
+    },
+    {
+      "id" : 2,
+      "name" : "龙之战",
+      "img" : "https://pic.maizuo.com/usr/movie/dc788fc5a3770375255bd3a56490d70b.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300",
+      "dc" : "持倭刀屹立 抗外敌救国",
+      "date" : "8月7日",
+      "week" : "星期四"
+    },
+    {
+      "id" : 3,
+      "name" : "玩偶奇兵",
+      "img" : "https://pic.maizuo.com/usr/movie/6636d5817f69e293a3da5c17bf2ae907.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300",
+      "dc" : "玩偶战数码 一头两个大",
+      "date" : "8月7日",
+      "week" : "星期四"
+    },
+    {
+      "id" : 4,
+      "name" : "皮绳上的魂",
+      "img" : "https://pic.maizuo.com/usr/movie/202b8d2ebcc268b914da9bffb27a4f96.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300",
+      "dc" : "走完朝圣路 又上降魔旅",
+      "date" : "8月7日",
+      "week" : "星期四"
+    },
+    {
+      "id" : 5,
+      "name" : "原罪的羔羊",
+      "img" : "https://pic.maizuo.com/usr/movie/79f743c9733bb50b2b764af57b0d0288.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300",
+      "dc" : "古镇来戏班 往事不一般",
+      "date" : "8月7日",
+      "week" : "星期四"
+    },
+    {
+      "id" : 6,
+      "name" : "我是马布里",
+      "img" : "https://pic.maizuo.com/usr/movie/e16783adb7321797b71f596a414c73f6.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300",
+      "dc" : "夜半拉乘客 结果遇不测",
+      "date" : "8月7日",
+      "week" : "星期四"
+    },
+    {
+      "id" : 6,
+      "name" : "地球：神奇的一天",
+      "img" : "https://pic.maizuo.com/usr/movie/14b30a880825b19f1f19a9c689980eb9.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300",
+      "dc" : "史诗纪录片 十年再相见",
+      "date" : "8月7日",
+      "week" : "星期四"
+    }
+  ]
+}

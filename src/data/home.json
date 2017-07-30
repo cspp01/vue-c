@@ -27,30 +27,35 @@
   ],
 "list" :[
       {
+        "id" : 1,
         "name" : "战狼2",
         "src" : "https://pic.maizuo.com/usr/100003591/b165d956253177200ac5f1fcc01b793f.jpg",
         "description" : "166家影院上映 131818人购票",
         "pf" : "8.4"
       },
       {
+        "id" : 2,
         "name" : "建军大业",
         "src" : "https://pic.maizuo.com/usr/movie/5123adc6575b258fb0329bcf4f65353b.jpg",
         "description" : "166家影院上映 131818人购票",
         "pf" : "8.4"
       },
       {
+        "id" : 3,
         "name" : "神偷奶爸3",
         "src" : "https://pic.maizuo.com/usr/movie/950be9f2b66ba9d12308410d7229b738.jpg",
         "description" : "166家影院上映 131818人购票",
         "pf" : "8.4"
       },
       {
+        "id" : 4,
         "name" : "绣春刀II：修罗战场",
         "src" : "https://pic.maizuo.com/usr/movie/c0f4057cc79994532522058ccc2d7939.jpg",
         "description" : "166家影院上映 131818人购票",
         "pf" : "8.4"
       },
       {
+        "id" : 5,
         "name" : "三生三世十里桃花",
         "src" : "https://pic.maizuo.com/usr/100003566/ac62bbc333a3754d03f76797ebcca2fd.jpg",
         "description" : "166家影院上映 131818人购票",
@@ -59,16 +64,19 @@
   ],
   "show" : [
     {
+      "id" : 5,
       "name" : "三生三世十里桃花",
       "src" : "https://pic.maizuo.com/usr/100003566/ac62bbc333a3754d03f76797ebcca2fd.jpg",
       "date" : "8月3日上映"
     },
     {
+      "id" : 6,
       "name" : "神灵寨",
       "src" : "https://pic.maizuo.com/usr/movie/3853abdbeeed0535c0e10cf47677b3aa.jpg",
       "date" : "7月13日上映"
     },
     {
+      "id" : 7,
       "name" : "谁是球王",
       "src" : "https://pic.maizuo.com/usr/movie/f4a592e50def5d4f0acc649c4ca3fd7c.jpg",
       "date" : "8月3日上映"

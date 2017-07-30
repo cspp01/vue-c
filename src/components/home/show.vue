@@ -1,24 +1,40 @@
 <template>
     <section class="show" data-name="即将上映">
         <dl v-for="item in show">
-            <dt><img :src="item.src"/></dt>
-            <dd class="clearfix">
-                <div>
-                    <p>{{item.name}}</p>
-                </div>
-                <div>
-                    <span>{{item.date}}</span>
-                </div>
-            </dd>
+            <router-link :to="{
+                path : '/details',
+                query : {
+                    id : item.id
+                }
+            }" @click.native="backStr( item.name )">
+                <dt><img :src="item.src"/></dt>
+                <dd class="clearfix">
+                    <div>
+                        <p>{{item.name}}</p>
+                    </div>
+                    <div>
+                        <span>{{item.date}}</span>
+                    </div>
+                </dd>
+            </router-link>
         </dl>
-        <a href="">更多即将上映电影</a>
+        <router-link to="/more/more-jj" @click.native="ifActive">更多即将上映电影</router-link>
     </section>
 </template>
 <script>
     export default{
         props : [
             'show'
-        ]
+        ],
+        methods : {
+            ifActive : function() {
+                this.$store.commit( 'uppdateIfActive', 2 );
+            },
+            backStr : function( name ) {
+                this.$store.commit( 'uppdateBackStr', '/' );
+                this.$store.commit( 'uppdateTitle', name );
+            }
+        }
     }
 </script>
 <style scoped lang="scss">

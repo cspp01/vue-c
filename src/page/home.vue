@@ -1,10 +1,10 @@
 <template>
-    <section class="home">
+    <main>
         <c_banner :banners="banners"></c_banner>
         <!--<c_home :loo="cou" @aa="add()"></c_home>-->
         <c_list :list="list"></c_list>
         <c_show :show="show"></c_show>
-    </section>
+    </main>
 </template>
 <script>
     import c_home from '../components/home/home.vue';
@@ -19,7 +19,11 @@
                 show : []
             }
         },
+        beforeCreate : function() {
+            this.$store.commit('uppdateTitle', '卖座电影');
+        },
         created : function() {
+            console.log( 1 );
             this.$http.get( '../src/data/home.json' ).then( function( r ){
                 this.banners = r.data.banner;
                 this.list = r.data.list;
