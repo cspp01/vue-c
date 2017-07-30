@@ -2,31 +2,46 @@
 
 > 使用vue + vuex开发的卖座网
 
+## 该项目技术栈
+
+> webpack + webpack-dev-server + vuejs + vuex + vue-resource + vue-router + sass +es6
+
+## 项目演示
+
+![](mzw.gif)
+
+## 项目地址
+
+[查看demo请戳这里](http://cangdu.org:8001/)（请用chrome手机模式预览）
+
+## 移动端扫描下方二维码
+
+<img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/ewm.png" width="250" height="250"/>
+
 ### 已经实现功能
 
 1.首页（侧边栏、点击进入电影详情界面）
 
-2.通讯录（联系人字母排序、搜索界面）
+2.影片（正在热映、即将上映，点击进入详情页面）
 
-3.发现（朋友圈）
+3.全部影院
 
-4.我（界面）
+4.登录
+
+5.使用json文件模拟数据接口
 
 ### 待实现功能（接下来一个月陆续完成）
 
-1.语音搜索、发送短视频、地理位置等
+1.地理位置
 
-2.朋友圈细节完善
+2.购票
 
-3.扫一扫
+3.商城（界面）
 
-4.相册、钱包
+4.演出（界面）
 
-5.搭建服务器实现实时通信功能以及其他细节实现
+5.搭建node.js实现数据接口
 
-## 该项目技术栈
-
-> webpack + vuejs + vuex + vue-resource + vue-router + sass
 
 ## 项目布局
 ```
@@ -87,5 +102,3 @@
 ├── index.html
 ├── webpack.config.js
 ```
-##演示效果
-![](mzw.gif)
