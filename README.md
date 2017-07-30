@@ -8,7 +8,7 @@
 
 ## 项目演示
 
-![Alt text](http://otnhjxlus.bkt.clouddn.com/mzw.gif)
+![Alt text](./mzw.gif)
 
 ## 项目地址
 
