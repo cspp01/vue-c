@@ -12,7 +12,7 @@
 
 ## 项目地址
 
-[查看demo请戳这里](http://cangdu.org:8001/)（请用chrome手机模式预览）
+[查看请戳这里](http://chenshuai110.oschina.io/mzw)（请用chrome手机模式预览）
 
 ### 已经实现功能
 
